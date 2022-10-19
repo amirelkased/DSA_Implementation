@@ -52,5 +52,6 @@ int main() {
 0 0 0 0 1 0 0
 0 0 0 0 1 0 0
 
+if start vertice = 4
 Result: 4 1 3 5 2 6 7
  */
